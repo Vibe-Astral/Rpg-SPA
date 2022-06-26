@@ -9,10 +9,9 @@ function Card() {
 
       <div id='cc-content'>
         <h1>Participantes</h1>
-
         <section className='master'>
           <div className="card-p">
-            <Link to="/ficha">
+            <Link to="/ficha-master"  >
               <div>
                 <h1>Master</h1>
                 <div className="card-img">
@@ -25,7 +24,7 @@ function Card() {
 
         <section className='card-content'>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-1"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -34,7 +33,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-2"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -43,7 +42,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-3"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -52,7 +51,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-4"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -61,7 +60,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-5"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -70,7 +69,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-6"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -79,7 +78,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-7"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -88,7 +87,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-8"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -97,7 +96,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-9"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -106,7 +105,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-10"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />
@@ -115,7 +114,7 @@ function Card() {
             </Link>
           </div>
           <div className="card-p">
-            <Link to="/ficha"><h1>Players</h1>
+            <Link to="/ficha-11"><h1>Players</h1>
               <div>
                 <div className="card-img">
                   <img src={img} alt="batata" />

@@ -111,3 +111,24 @@ html{
   box-shadow: 2px 3px white;
 }
 /* Ficha */
+.content-englo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.ficha{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+}
+.ficha h1{
+ font-size: 3rem;
+}
+.ficha a{
+  font-size: 2rem;
+ }
