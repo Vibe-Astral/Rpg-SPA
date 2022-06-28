@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/site-rpg/static/css/main.9151cf20.css",
-    "main.js": "/site-rpg/static/js/main.9fc343e6.js",
-    "static/media/Yama.png": "/site-rpg/static/media/Yama.419954f9786da9c72fe7.png",
-    "index.html": "/site-rpg/index.html",
-    "main.9151cf20.css.map": "/site-rpg/static/css/main.9151cf20.css.map",
-    "main.9fc343e6.js.map": "/site-rpg/static/js/main.9fc343e6.js.map"
+    "main.css": "/Rpg-SPA/static/css/main.9151cf20.css",
+    "main.js": "/Rpg-SPA/static/js/main.b158d708.js",
+    "static/media/Yama.png": "/Rpg-SPA/static/media/Yama.419954f9786da9c72fe7.png",
+    "index.html": "/Rpg-SPA/index.html",
+    "main.9151cf20.css.map": "/Rpg-SPA/static/css/main.9151cf20.css.map",
+    "main.b158d708.js.map": "/Rpg-SPA/static/js/main.b158d708.js.map"
   },
   "entrypoints": [
     "static/css/main.9151cf20.css",
-    "static/js/main.9fc343e6.js"
+    "static/js/main.b158d708.js"
   ]
 }
