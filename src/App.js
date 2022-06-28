@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path='/' element={<Apres />} />
+        <Route path='/Rpg-SPA/' element={<Apres />} />
         <Route path='/participantes' element={<Card />} />
         <Route path='/ficha-master'  element={<FichaM />} />
         <Route path='/ficha-1'  element={<Ficha1 />} />
