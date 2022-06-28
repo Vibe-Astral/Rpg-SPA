@@ -1,7 +1,6 @@
 import React from 'react'
 import App from "../../App.css";
-import { Routes, Route, Link } from "react-router-dom";
-
+import { Link } from "react-router-dom";
 function Ficha8() {
 
   return (

@@ -1,7 +1,7 @@
 import React from "react";
 import App from "../../App.css";
 import img from "./Yama.png"
-import { Routes, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Card() {
   return (
