@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Rpg-SPA/static/css/main.9151cf20.css",
-    "main.js": "/Rpg-SPA/static/js/main.9a6be4a6.js",
+    "main.js": "/Rpg-SPA/static/js/main.bacf57f0.js",
     "static/media/Yama.png": "/Rpg-SPA/static/media/Yama.419954f9786da9c72fe7.png",
     "index.html": "/Rpg-SPA/index.html",
     "main.9151cf20.css.map": "/Rpg-SPA/static/css/main.9151cf20.css.map",
-    "main.9a6be4a6.js.map": "/Rpg-SPA/static/js/main.9a6be4a6.js.map"
+    "main.bacf57f0.js.map": "/Rpg-SPA/static/js/main.bacf57f0.js.map"
   },
   "entrypoints": [
     "static/css/main.9151cf20.css",
-    "static/js/main.9a6be4a6.js"
+    "static/js/main.bacf57f0.js"
   ]
 }
