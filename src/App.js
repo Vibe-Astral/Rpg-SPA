@@ -18,8 +18,11 @@ import Ficha11 from './Components/FIcha/Ficha11';
 function App() {
   return (
     <>
+    <div>
+      <h1>batata</h1>
+    </div>
       <Routes>
-        <Route path='/Rpg-SPA/' element={<Apres />} />
+        <Route path='/Rpg-SPA' element={<Apres />} />
         <Route path='/participantes' element={<Card />} />
         <Route path='/ficha-master'  element={<FichaM />} />
         <Route path='/ficha-1'  element={<Ficha1 />} />
