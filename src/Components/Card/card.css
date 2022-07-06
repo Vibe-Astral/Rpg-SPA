@@ -1,0 +1,68 @@
+/* Cards */
+
+/* Div englobadora */
+#cc-content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  background-color: aqua;
+}
+
+#cc-content h1 {
+  display: inline;
+  font-size: 2rem;
+  font-weight: 600;
+}
+/*Responsável pela separação de section */
+.card-content {
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.master{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  
+}
+/* Card Clicável */
+.card-p {
+  display: flex;
+  border: 3px solid black;
+  width: 20%;
+  margin: 25px;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  color: var(--cor-letras);
+}
+
+.card-p a {
+  text-decoration: none;
+  color: var(--cor-letras);
+  padding-top: 4%;
+}
+
+.card-p:hover {
+  box-shadow: 0px 5px 7px black;
+}
+
+.card-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.card-img img {
+  width: 80%;
+  border: 2px solid white;
+}
+
+.card-img img:hover {
+  box-shadow: 2px 3px white;
+}

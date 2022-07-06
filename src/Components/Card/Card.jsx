@@ -2,7 +2,7 @@ import React from "react";
 import App from "../../App.css";
 import img from "./Yama.png"
 import { Link } from "react-router-dom";
-
+import card from './card.css'
 function Card() {
   return (
     <>

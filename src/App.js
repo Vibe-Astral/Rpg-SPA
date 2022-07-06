@@ -14,6 +14,7 @@ import Ficha8 from './Components/FIcha/Ficha8';
 import Ficha9 from './Components/FIcha/Ficha9';
 import Ficha10 from './Components/FIcha/Ficha10';
 import Ficha11 from './Components/FIcha/Ficha11';
+import SobreRpg from './Components/SobreRpg/SobreRpg';
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
         <Route path='/ficha-9'  element={<Ficha9 />} />
         <Route path='/ficha-10'  element={<Ficha10 />} />
         <Route path='/ficha-11'  element={<Ficha11 />} />
+        <Route path='/SobreRpg'  element={<SobreRpg />} />
       </Routes>
     </>
   );

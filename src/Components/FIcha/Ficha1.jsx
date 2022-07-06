@@ -1,6 +1,7 @@
 import React from 'react'
 import App from "../../App.css";
 import { Link } from "react-router-dom";
+import fichas from './fichas.css'
 
 function Ficha1() {
 

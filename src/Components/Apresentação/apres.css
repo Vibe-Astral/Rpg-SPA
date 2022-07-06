@@ -1,0 +1,44 @@
+body{
+  margin: 0%;
+  padding: 0%;
+ 
+}
+.content-todo{
+  background-color: brown;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.englob-estilo{
+  display: flex;
+  background-color: white;
+  width: 60%;
+  height: 60%;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.aboutRpg{
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.participants{
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
